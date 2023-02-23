@@ -1,0 +1,11 @@
+FOODE ITEM               PRICE         CODE
+Shahi Paneer       -     200/-          11
+Dal Makhani        -     100/-          12
+Chole Bhature      -     50/-           13
+Malai Kofta        -     150/-          14
+Palak Paneer       -     250/-          15
+Jeera Rice         -     80/-           16
+Mix Veg            -     150/-          17
+Roti               -     10/piece       18
+Mix Raita          -     40/-           19
+Hakka Noodles      -     50/-           20

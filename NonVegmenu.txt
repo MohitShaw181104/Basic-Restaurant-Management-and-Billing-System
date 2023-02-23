@@ -1,0 +1,11 @@
+FOOD ITEM                  PRICE           CODE
+Butter Chicken       -     400/-            1
+Chicken Biryani      -     220/-            2
+Bhapa Eilish         -     250/-            3
+Fish Curry           -     200/-            4
+Chicken Lollipop     -     25/piece         5
+Chicken Satta        -     30/piece         6
+Egg Curry            -     180/-            7
+Chilli Chicken       -     300/-            8
+Mutton Biryani       -     500/-            9
+Pulaao               -     100/-            10
